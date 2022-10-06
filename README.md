@@ -3,6 +3,8 @@
 
 Day-2 
 
+Created an Analog clock using Javascript & CSS.
+
 Learnt about transform, transition & transition-timing-function in CSS.
 
 How DOM handles the updations.
